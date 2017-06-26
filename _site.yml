@@ -1,0 +1,10 @@
+name: "bda-website"
+output_dir: "."
+navbar: 
+  title: "BDA Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    
